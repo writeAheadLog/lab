@@ -17,5 +17,5 @@ exclude =
 
 ignore =
 
-max-line-length = 110
+max-line-length = 120
 max-complexity = 10
