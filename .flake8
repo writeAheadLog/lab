@@ -1,0 +1,21 @@
+[flake8]
+exclude =
+    .git,
+    .gitignore,
+    *.pot,
+    *.py[co],
+    __pycache__,
+    venv,
+    .venv,
+    env
+    .env,
+    node_modules,
+    cdk.out
+    .tox
+    .pytest_cache
+    .coverage
+
+ignore =
+
+max-line-length = 110
+max-complexity = 10
